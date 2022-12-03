@@ -31,4 +31,22 @@ Once it is installed, open up Pycharm.
 
 Now that you have an IDE installed, you have to clone in the code for this project to be able to modify and run it.
 
-Click on the 
+Select `Import Project from VCS` and paste in this link: https://github.com/JamesStuartBeck/Pystage.git.
+
+If you see the words `Git not installed` appear in red, then you need to install Git.
+Pycharm should give you the option to install it, and if you click the button, it will do it for you.
+
+This should copy in all the files for this project.
+
+#### Adding an Interpreter
+
+Click on `File > Settings` to open up the `Settings` window.
+Within the search bar, type in `Python Interpreter` and press enter; this will take you to the `Python Interpreter` page.
+Click on `Add Interpreter > Add Local Interpreter` and in the new window that appears, click `Okay`.
+This will take you back to the `Python Interpreter` page. Click `Apply` at the bottom.
+
+#### Installing Pystage
+
+Open up a new `Termianl` window closing your current one and clicking the button on the bottom, and run the following command: `pip install pystage`.
+
+### Running the Game
