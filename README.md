@@ -50,3 +50,5 @@ This will take you back to the `Python Interpreter` page. Click `Apply` at the b
 Open up a new `Termianl` window closing your current one and clicking the button on the bottom, and run the following command: `pip install pystage`.
 
 ### Running the Game
+
+To run the game, run the command `python gamy.py`.
