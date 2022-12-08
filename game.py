@@ -12,6 +12,18 @@ def intro(sprite):
     sprite.wait(3)
     sprite.say("")
 
+# Basic Movement
+
+# Parameterized Movement
+
+# Continuous Movement
+
+# Basic Rotation
+
+# Parameterized Rotation
+
+# Continuous Rotation
+
 def game():
     stage = Stage()
     stage.add_backdrop("grid")
