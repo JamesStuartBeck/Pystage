@@ -10,8 +10,8 @@ If one of these steps does not apply to you, simply skip it.
 
 #### Installing Python
 
-Navigate to the [Python website](https://www.python.org/downloads/) and install Python.
-This page will automatically recommend the most recent version of Python for your operating system.
+Navigate to the [Python website](https://www.python.org/downloads/release/python-3109/) and install the proper version for your operating system.
+This is an older version of Python, but we have found that the most recent version of Python is incompatible with Pystage.
 Once installation is complete, test that you have properly installed Python by opening one of the following:
 - A `Command Prompt` window for Windows users
 - A `Terminal` window for Mac users
